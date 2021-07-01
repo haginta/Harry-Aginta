@@ -1,4 +1,4 @@
-![header image](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png)
+![image](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png)
 #### PhD Student at Nagoya University
 
 ## Research interests
