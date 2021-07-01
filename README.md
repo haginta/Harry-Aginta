@@ -1,5 +1,5 @@
 #### PhD Student at Nagoya University
-[Email](aginta.harry@c.mbox.nagoya-u.ac.jp) 
+Email: [aginta.harry@c.mbox.nagoya-u.ac.jp](aginta.harry@c.mbox.nagoya-u.ac.jp) 
 
 ## Research interests
 - Development economics
