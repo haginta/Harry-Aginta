@@ -1,5 +1,5 @@
-![image](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png)
 #### PhD Student at Nagoya University
+[Email](aginta.harry@c.mbox.nagoya-u.ac.jp) 
 
 ## Research interests
 - Development economics
