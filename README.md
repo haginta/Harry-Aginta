@@ -27,5 +27,21 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - [Covid-19 pandemic and its economic impacts: An interactive exploration on Indonesian provincial data](https://haginta.shinyapps.io/covid19-econ-impacts-indonesia/)
 - [Creating Animated Bar Chart Race in R](https://rpubs.com/haginta/709479)
 
-#### [My researchgate](https://www.researchgate.net/profile/Harry-Aginta)
-#### [My Deepnote](https://deepnote.com/@harry-aginta)
+## Articles
+- ["Digital Agenda Bank Indonesia 4.0"](https://rpubs.com/haginta/digitalagendabi40)
+- ["Bolstering manufacturing exports to cut inequality"](https://www.thejakartapost.com/news/2018/06/25/bolstering-manufacturing-exports-cut-inequality.html) (The Jakarta Post, 2018) 
+- ["How structural reforms impact growth"](https://www.thejakartapost.com/academia/2018/04/09/how-structural-reforms-impact-growth.html) (The Jakarta Post, 2018) 
+- ["Regional inequality still a major problem"](https://www.thejakartapost.com/academia/2017/05/09/regional-inequality-still-a-major-problem.html) (The Jakarta Post, 2017)
+- ["Food inflation and the central bank's dillema"](https://www.thejakartapost.com/academia/2016/11/03/food-inflation-and-the-central-banks-dilemma.html) (The Jakarta Post, 2016)
+- ["A fresh look at FDI: Is it quantity or quality?"](https://www.thejakartapost.com/news/2016/01/28/a-fresh-look-fdi-is-it-quantity-or-quality.html) (The Jakarta Post, 2016)
+- ["How IT can help curb inflation"](https://www.thejakartapost.com/news/2015/11/19/how-it-can-help-curb-inflation.html) (The Jakarta Post, 2015)
+- ["Are exports good and imports bad for the economy?"](https://www.thejakartapost.com/news/2013/03/15/are-exports-good-and-imports-bad-economy.html) (The Jakarta Post, 2013)
+
+
+### Virtual internship
+- [ANZ@Data](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
+
+
+#### [Researchgate](https://www.researchgate.net/profile/Harry-Aginta)
+#### [Deepnote](https://deepnote.com/@harry-aginta)
+#### [linkedin](https://www.linkedin.com/in/harry-aginta-6a968735/)
