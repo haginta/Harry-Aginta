@@ -3,8 +3,7 @@
 #remote_theme: poole / hyde
 #remote_theme: sharu725/online-cv
 #remote_theme: jitinnair1/gradfolio
-#remote_theme: hydecorp/hydejack
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: hydecorp/hydejack
 
 
 sidebar:
