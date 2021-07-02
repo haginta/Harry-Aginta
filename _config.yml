@@ -1,7 +1,9 @@
 #theme: jekyll-theme-tactile
 #remote_theme: poole / lanyon
 #remote_theme: poole / hyde
-remote_theme: sharu725/online-cv
+#remote_theme: sharu725/online-cv
+remote_theme: jitinnair1/gradfolio
+
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
