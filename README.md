@@ -24,3 +24,4 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - [Creating Animated Bar Chart Race in R](https://rpubs.com/haginta/709479)
 
 [My researchgate](https://www.researchgate.net/profile/Harry-Aginta)
+[My Deepnote](https://deepnote.com/@harry-aginta)
