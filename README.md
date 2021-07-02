@@ -20,7 +20,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - Identifying club convergence of regional wage in Indonesia and the influencing factors (2021)
 
 ## Data projects
-- [Covid-19 pandemic and its economic impacts: An interactive exploration on Indonesian provincial data](https://rpubs.com/haginta/covid19-econ-impacts-indonesia)
+- [Covid-19 pandemic and its economic impacts: A static exploration on Indonesian provincial data](https://rpubs.com/haginta/covid19-econ-impacts-indonesia)
 - [Covid-19 pandemic and its economic impacts: An interactive exploration on Indonesian provincial data](https://haginta.shinyapps.io/covid19-econ-impacts-indonesia/)
 - [Creating Animated Bar Chart Race in R](https://rpubs.com/haginta/709479)
 
