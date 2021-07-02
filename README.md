@@ -17,6 +17,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 
 ## Working papers
 - [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://assets.researchsquare.com/files/rs-461275/v1_stamped.pdf) (2021)
+- Identifying club convergence of regional wage in Indonesia and the influencing factors (2021)
 
 ## Data projects
 - [Covid-19 pandemic and its economic impacts: An interactive exploration on Indonesian provincial data](https://rpubs.com/haginta/covid19-econ-impacts-indonesia)
