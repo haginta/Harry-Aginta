@@ -13,3 +13,9 @@ header_pages:
   - about.md
   - cv.md
   - research.md
+
+
+  # generate social links in footer
+  social_links:
+    github:  haginta
+    linkedin: "https://www.linkedin.com/in/harry-aginta-6a968735/"
