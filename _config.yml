@@ -9,9 +9,9 @@ remote_theme: hydecorp/hydejack
 #theme: minima
 
 
-header_pages:
-  - about.md
-  - cv.md
-  - research.md
+#header_pages:
+ # - about.md
+ #- cv.md
+ # - research.md
 
 
