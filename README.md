@@ -21,7 +21,9 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - Identifying club convergence of regional wage in Indonesia and the influencing factors (2021)
 
 ### Conference presentations
-- [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1)
+- [Regional economic growth convergence and spatial growth spillovers at times of COVID-19 pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1) (Indonesia Regional Science Association (IRSA) 16th International Conference, Yogyakarta, July 12-13, 2021)
+- Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces (The 5th International Conference on Economic Structures, Kobe, March 20-21, 2021)
+- Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors (The 19th International Conference of the Japan Economic Policy Association, November, 19-20, 2020)
 
 ### Data projects
 - [Club convergence of regional wage across Indonesian provinces in R](https://colab.research.google.com/drive/1Y0IMGj0yLDQcIwfp_1XJowGND7yWcuwZ?usp=sharing)
