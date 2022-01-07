@@ -15,11 +15,12 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - [Regional income disparities and convergence clubs in Indonesia: new district-level evidence](https://www.tandfonline.com/doi/abs/10.1080/13547860.2020.1868107) (Journal of Asia-Pacific Economy, 2021)
 - [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) (Economics and Finance in Indonesia, 2018)
 - [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) (Indonesian Regional Science Association, IRSA Book Series No.19, 2021)
+- [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) (Journal of Economic Structures, 2022)
 
 ### Working papers
-- [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://assets.researchsquare.com/files/rs-461275/v1_stamped.pdf) (2021)
 - Identifying club convergence of regional wage in Indonesia and the influencing factors (2021)
 - Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (2021)
+- Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis (2021)
 
 ### Conference presentations
 - [Regional economic growth convergence and spatial growth spillovers at times of COVID-19 pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1) (Indonesia Regional Science Association (IRSA) 16th International Conference, Yogyakarta, July 12-13, 2021)
