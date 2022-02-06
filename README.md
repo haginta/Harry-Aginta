@@ -21,6 +21,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - Identifying club convergence of regional wage in Indonesia and the influencing factors (2021)
 - Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (2021)
 - Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis (2021)
+- Spatio-temporal dynamics of regional inflation in Indonesia (2022)
 
 ### Conference presentations
 - [Regional economic growth convergence and spatial growth spillovers at times of COVID-19 pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1) (Indonesia Regional Science Association (IRSA) 16th International Conference, Yogyakarta, July 12-13, 2021)
