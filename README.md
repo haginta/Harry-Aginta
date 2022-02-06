@@ -29,11 +29,13 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors (The 19th International Conference of the Japan Economic Policy Association, November, 19-20, 2020)
 
 ### Data projects
-- [Club convergence of regional wage across Indonesian provinces in R](https://colab.research.google.com/drive/1Y0IMGj0yLDQcIwfp_1XJowGND7yWcuwZ?usp=sharing)
+- [Club convergence of regional wage across Indonesian provinces using R - Google colab](https://colab.research.google.com/drive/1Y0IMGj0yLDQcIwfp_1XJowGND7yWcuwZ?usp=sharing)
+- [Club convergence of regional wage across Indonesian provinces using R - Deepnote](https://deepnote.com/@harry-aginta/R-Club-convergence-of-regional-wage-across-Indonesian-provinces-in-R-ByLPKCPWQ-OuPjMPryU7aQ)
 - [Covid-19 pandemic and its economic impacts: A static exploration on Indonesian provincial data](https://rpubs.com/haginta/covid19-econ-impacts-indonesia)
 - [Covid-19 pandemic and its economic impacts: An interactive exploration on Indonesian provincial data](https://haginta.shinyapps.io/covid19-econ-impacts-indonesia/)
 - [Creating Animated Bar Chart Race in R](https://rpubs.com/haginta/709479)
-- [Regional inflation in Indonesia: Exploratory Spatial data Analysis (ESDA)](https://deepnote.com/@harry-aginta/Reg-inflation-Indonesia-Exploratory-Spatial-data-Analysis-ESDA-P8VbcfljQ5WyzeBH7V7C3Q)
+- [Regional inflation in Indonesia: Exploratory Spatial data Analysis (ESDA) - Deepnote](https://deepnote.com/@harry-aginta/Reg-inflation-Indonesia-Exploratory-Spatial-data-Analysis-ESDA-P8VbcfljQ5WyzeBH7V7C3Q)
+- [Predicting regional income with satellite nightlight data: The case of districts in Java, Indonesia - Deepnote](https://deepnote.com/@harry-aginta/Predicting-regional-income-with-satellite-nightlight-_XJ6PKCoSRiFbRQW8nujTA)
 
 ### Articles
 - ["Digital Agenda Bank Indonesia 4.0"](https://rpubs.com/haginta/digitalagendabi40)
