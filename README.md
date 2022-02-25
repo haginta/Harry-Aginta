@@ -16,9 +16,9 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) (Economics and Finance in Indonesia, 2018)
 - [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) (Indonesian Regional Science Association, IRSA Book Series No.19, 2021)
 - [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) (Journal of Economic Structures, 2022)
+-  Identifying club convergence of regional wage in Indonesia and the influencing factors (Regional Statictics, Forthcoming March 2022)
 
 ### Working papers
-- Identifying club convergence of regional wage in Indonesia and the influencing factors (2021)
 - Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (2021)
 - Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis (2021)
 - Spatio-temporal dynamics of regional inflation in Indonesia (2022)
