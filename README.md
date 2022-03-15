@@ -1,6 +1,4 @@
-![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png?raw=true){width=100 height=100}
-
-
+![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry-Aginta_.png?raw=true)
 
 ##### PhD student at Nagoya University, Japan
 Email: [aginta.harry@c.mbox.nagoya-u.ac.jp](aginta.harry@c.mbox.nagoya-u.ac.jp)
