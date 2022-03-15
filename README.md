@@ -53,6 +53,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 
 ### Op-ed articles
 - ["Digital Agenda Bank Indonesia 4.0"](https://rpubs.com/haginta/digitalagendabi40)
+- ["Hikmah perang dagang"](https://koran.bisnis.com/m/read/20190625/251/937289/perdagangan-global-hikmah-perang-dagang) (Bisnis Indonesia, 2019)
 - ["Bolstering manufacturing exports to cut inequality"](https://www.thejakartapost.com/news/2018/06/25/bolstering-manufacturing-exports-cut-inequality.html) (The Jakarta Post, 2018) 
 - ["How structural reforms impact growth"](https://www.thejakartapost.com/academia/2018/04/09/how-structural-reforms-impact-growth.html) (The Jakarta Post, 2018) 
 - ["Regional inequality still a major problem"](https://www.thejakartapost.com/academia/2017/05/09/regional-inequality-still-a-major-problem.html) (The Jakarta Post, 2017)
