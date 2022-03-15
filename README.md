@@ -8,7 +8,7 @@ Email: [aginta.harry@c.mbox.nagoya-u.ac.jp](aginta.harry@c.mbox.nagoya-u.ac.jp)
 - Monetary economics
 - Applied econometrics
 
-### Publications
+### Research publications
 1. [Does the law of one price hold in 82 Indonesian cities? Evidence from club
 convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I4-P248.pdf) (Economics Bulletin, 2020)
 2. [Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors](https://link.springer.com/article/10.1007/s41685-020-00178-0) (Asia-Pacific Journal of Regional Science, 2020)
