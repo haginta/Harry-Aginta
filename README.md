@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png" width="100" height="100"></a>
+![](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png width="100" height="100")
 
 
 ##### PhD student at Nagoya University, Japan
