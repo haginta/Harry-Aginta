@@ -1,4 +1,4 @@
-![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png =100x20)
+![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png)
 
 
 ##### PhD student at Nagoya University, Japan
