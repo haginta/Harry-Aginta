@@ -1,6 +1,6 @@
 ![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png?raw=true)
 
-<img src="https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png" width="200" height="100"/>
+<img src="https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png" width="100" height="100"/>
 
 
 ##### PhD student at Nagoya University, Japan
