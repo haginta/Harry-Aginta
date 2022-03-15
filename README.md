@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry%20Aginta.png?raw=true)
 
 
 ##### PhD student at Nagoya University, Japan
