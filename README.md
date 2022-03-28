@@ -1,8 +1,6 @@
 ![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry-Aginta_.png?raw=true)
-##### PhD student at Nagoya University, Japan
-##### Economic researcher at Bank Indonesia
-Email: [aginta.harry@c.mbox.nagoya-u.ac.jp](aginta.harry@c.mbox.nagoya-u.ac.jp)
-Email: [harry_ag@bi.go.id](harry_ag@bi.go.id)
+##### PhD student at Nagoya University and researcher at Bank Indonesia
+Email: [aginta.harry@c.mbox.nagoya-u.ac.jp](aginta.harry@c.mbox.nagoya-u.ac.jp); [harry_ag@bi.go.id](harry_ag@bi.go.id)
 
 ### Research interests
 - Development economics
