@@ -16,7 +16,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 4. [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) (Economics and Finance in Indonesia, 2018)
 5. [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) (Indonesian Regional Science Association, IRSA Book Series No.19, 2021)
 6. [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) (Journal of Economic Structures, 2022)
-7. Identifying club convergence of regional wage in Indonesia and the influencing factors (Regional Statictics, Forthcoming March 2022)
+7. [Testing for convergence clubs in real wage across Indonesian provinces from 2008 to 2020](https://www.ksh.hu/docs/hun/xftp/terstat/2022/rs120305.pdf) (Regional Statictics, 2022)
 
 ### Working papers
 1. Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (2021) 
@@ -52,6 +52,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - [Predicting regional income with satellite nightlight data: The case of districts in Java, Indonesia - Deepnote](https://deepnote.com/@harry-aginta/Predicting-regional-income-with-satellite-nightlight-_XJ6PKCoSRiFbRQW8nujTA)
 
 ### Op-ed articles
+- [APBN, Produk Lokal, dan Kesenjangan Wilayah](https://www.kompas.id/baca/artikel-opini/2022/04/03/apbn-produk-lokal-dan-kesenjangan-wilayah)
 - ["Digital Agenda Bank Indonesia 4.0"](https://rpubs.com/haginta/digitalagendabi40)
 - ["Hikmah perang dagang"](https://koran.bisnis.com/m/read/20190625/251/937289/perdagangan-global-hikmah-perang-dagang) (Bisnis Indonesia, 2019)
 - ["Bolstering manufacturing exports to cut inequality"](https://www.thejakartapost.com/news/2018/06/25/bolstering-manufacturing-exports-cut-inequality.html) (The Jakarta Post, 2018) 
