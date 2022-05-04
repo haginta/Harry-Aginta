@@ -17,7 +17,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 5. [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) (Indonesian Regional Science Association, IRSA Book Series No.19, 2021)
 6. [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) (Journal of Economic Structures, 2022)
 7. [Testing for convergence clubs in real wage across Indonesian provinces from 2008 to 2020](https://www.ksh.hu/docs/hun/xftp/terstat/2022/rs120305.pdf) (Regional Statistics, 2022)
-8. [Spatio-temporal analysis of regional inflation in an emerging country: the case of Indonesia](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12539) (Regional Science Policy & Practice, 2022)
+8. [Spatiotemporal analysis of regional inflation in an emerging country: the case of Indonesia](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12539) (Regional Science Policy & Practice, 2022)
 
 ### Working papers
 1. Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (2021) 
