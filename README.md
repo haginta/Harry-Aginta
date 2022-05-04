@@ -50,7 +50,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - [Predicting regional income with satellite nightlight data: The case of districts in Java, Indonesia - Deepnote](https://deepnote.com/@harry-aginta/Predicting-regional-income-with-satellite-nightlight-_XJ6PKCoSRiFbRQW8nujTA)
 
 ### Op-ed articles
-- [APBN, Produk Lokal, dan Kesenjangan Wilayah](https://www.kompas.id/baca/artikel-opini/2022/04/03/apbn-produk-lokal-dan-kesenjangan-wilayah)
+- [APBN, Produk Lokal, dan Kesenjangan Wilayah](https://www.kompas.id/baca/artikel-opini/2022/04/03/apbn-produk-lokal-dan-kesenjangan-wilayah) (KOMPAS.ID, 2022)
 - ["Digital Agenda Bank Indonesia 4.0"](https://rpubs.com/haginta/digitalagendabi40)
 - ["Hikmah perang dagang"](https://koran.bisnis.com/m/read/20190625/251/937289/perdagangan-global-hikmah-perang-dagang) (Bisnis Indonesia, 2019)
 - ["Bolstering manufacturing exports to cut inequality"](https://www.thejakartapost.com/news/2018/06/25/bolstering-manufacturing-exports-cut-inequality.html) (The Jakarta Post, 2018) 
