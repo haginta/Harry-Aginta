@@ -33,7 +33,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 ### On-progress research projects
 1. Okun’s law and spatial spillovers: New evidence using multiscale regional data of Indonesia
 2. The determinants and spatial spillovers of income across Java districts in Indonesia: What the new nighttime light data say?
-3. Regional income dynamics across Chinese cities: Evidence from a spatio-temporal approach 
+3. Spatiotemporal analysis of income, physical and human capital across Chinese provinces 
 
 ### Conference presentations
 - [Regional economic growth convergence and spatial growth spillovers at times of COVID-19 pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1) (Indonesia Regional Science Association (IRSA) 16th International Conference, Yogyakarta, July 12-13, 2021)
