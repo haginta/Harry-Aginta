@@ -28,12 +28,14 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 
 3. Revisiting the Phillips curve for Indonesia: What can we learn from regional data? (2022, under review)
    > **Abstract:** This study seeks new empirical evidence of the Phillips curve in Indonesia, an emerging and geographically diversified economy. There are three important contributions from this research. First, applying panel econometric method to exploit regional variation, the study resolves the issue of using on-target national inflation rates that potentially causes weakening inflation-output link. Second, the research examines the relevance of mining industry for output gap measurement at regional level. Third, it highlights the differences in the Phillips curve between the west and east regions owing to their different underlying economic structures. Our estimation using regional data support the validity of the Phillips curve relationship in Indonesia. Backward-looking inflation expectations, exchange rate dynamics and international commodity prices also significantly affect inflation. In addition, the elasticity of the output gap is higher if the mining sector is excluded from output gap measurement. Finally, we find apparent differences between the west and the eastern regions in the slope of Phillips curve, as well as in the degree of inflation persistence and exchange rate pass-through. Our findings add significantly to the empirical literature on the Phillips curve and have meaningful policy implications.
+   
+4. Spatial Okun’s Law for a Set of Islands? The Case of Indonesia (2022, under review)
+   > **Abstract:** This paper estimates the Okun’s law using a spatial panel approach for Indonesian’s districts over the period 2009-2020. Given the geography of the archipelago, we deviate from the traditional definitions of neighbors and use instead a Thiessen polygons structure to capture the spillovers from neighboring regions. Our results show that the Okun’s Law relies heavily on the regional economic and industrial structure, revealing a differentiated Okun’s coefficient for eastern (agrarian) and western (industrialized) provinces. The magnitude of the spillovers support the appropriateness of using the Thiessen polygons structure to build the weight matrix.
   
 
 ### On-progress research projects
-1. Okun’s law and spatial spillovers: New evidence using multiscale regional data of Indonesia
-2. The determinants and spatial spillovers of income across Java districts in Indonesia: What the new nighttime light data say?
-3. Spatiotemporal analysis of income, physical and human capital across Chinese provinces 
+1. The determinants and spatial spillovers of income across districts in Java, Indonesia: What the new nighttime light data say?
+2. Spatiotemporal analysis of income, physical and human capital across Chinese provinces 
 
 ### Conference presentations
 - [Regional economic growth convergence and spatial growth spillovers at times of COVID-19 pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1) (Indonesia Regional Science Association (IRSA) 16th International Conference, Yogyakarta, July 12-13, 2021)
