@@ -35,7 +35,8 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 
 ### On-progress research projects
 1. The determinants and spatial spillovers of income across districts in Java, Indonesia: What the new nighttime light data say?
-2. Spatiotemporal analysis of income, physical and human capital across Chinese provinces 
+2. Spatiotemporal analysis of income, physical and human capital across Chinese provinces
+3. Spatial spillovers of inflation in Indonesia: An initial investigation
 
 ### Conference presentations
 - [Regional economic growth convergence and spatial growth spillovers at times of COVID-19 pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1) (Indonesia Regional Science Association (IRSA) 16th International Conference, Yogyakarta, July 12-13, 2021)
