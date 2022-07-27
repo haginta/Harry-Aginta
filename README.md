@@ -31,12 +31,13 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
    
 4. Spatial Okun’s law for a set of islands? The case of Indonesia (2022, under review)
    > **Abstract:** This paper estimates the Okun’s law using a spatial panel approach for Indonesian’s districts over the period 2009-2020. Given the geography of the archipelago, we deviate from the traditional definitions of neighbors and use instead a Thiessen polygons structure to capture the spillovers from neighboring regions. Our results show that the Okun’s Law relies heavily on the regional economic and industrial structure, revealing a differentiated Okun’s coefficient for eastern (agrarian) and western (industrialized) provinces. The magnitude of the spillovers support the appropriateness of using the Thiessen polygons structure to build the weight matrix.
-  
+   
+5. Inflation dynamics in Indonesia: A note from regional perspective (2022, under review)
+  > **Abstract:** This study empirically models the Phillips curve using data from 34 Indonesian provinces from 2015 to 2019 and makes three primary contributions to the literature. First, in light of the observed flattening Phillips curve in recent years, which may be related to the adoption of the Inflation Targeting Framework (ITF), this study tests the Phillips curve relationship using subnational data in a panel structure. Second, it is the first attempt to model inflation dynamics in Indonesia while factoring in spatial externality or spillover effects. Third, the study contrasts alternative measurements of inflation and output gap. The results show the presence of a conventional Phillips curve with distinct behaviour of spatial spillover effects across different measurement of inflation and output gap.
 
 ### On-progress research projects
 1. The determinants and spatial spillovers of income across districts in Java, Indonesia: What the new nighttime light data say?
 2. Spatiotemporal analysis of income, physical and human capital across Chinese provinces
-3. Spatial spillovers of inflation in Indonesia: An initial investigation
 
 ### Conference presentations
 - [Regional economic growth convergence and spatial growth spillovers at times of COVID-19 pandemic in Indonesia](https://haginta.github.io/IRSA-slides/IRSA_slides.html#1) (Indonesia Regional Science Association (IRSA) 16th International Conference, Yogyakarta, July 12-13, 2021)
