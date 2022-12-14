@@ -18,7 +18,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 6. [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) (Journal of Economic Structures, 2022)
 7. [Testing for convergence clubs in real wage across Indonesian provinces from 2008 to 2020](https://www.ksh.hu/docs/hun/xftp/terstat/2022/rs120305.pdf) (Regional Statistics, 2022)
 8. [Spatiotemporal analysis of regional inflation in an emerging country: the case of Indonesia](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12539) (Regional Science Policy & Practice, 2022)
-9. [Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis] (https://www.tandfonline.com/eprint/GYEJUKDXVCTYNW5TZESE/full?target=10.1080/09638199.2022.2149840)
+9. [Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis](https://www.tandfonline.com/eprint/GYEJUKDXVCTYNW5TZESE/full?target=10.1080/09638199.2022.2149840)
 
 ### Working papers
 1. Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (Conference paper of Sumatranomics, 2021) 
