@@ -9,7 +9,7 @@ Email: [aginta.harry.w6@s.mail.nagoya-u.ac.jp](aginta.harry.w6@s.mail.nagoya-u.a
 - Applied econometrics
 
 ### Research publications
-1.  [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) (Economics and Finance in Indonesia, 2018)
+1.  [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis], with Wahyu Baskoro and Debby (http://efi.ui.ac.id/index.php/efi/article/view/584/0) (Economics and Finance in Indonesia, 2018)
 2. [Does the law of one price hold in 82 Indonesian cities? Evidence from club
 convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I4-P248.pdf) (Economics Bulletin, 2020)
 3. [Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors](https://link.springer.com/article/10.1007/s41685-020-00178-0) (Asia-Pacific Journal of Regional Science, 2020)
