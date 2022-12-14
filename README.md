@@ -14,11 +14,11 @@ Email: [aginta.harry.w6@s.mail.nagoya-u.ac.jp](aginta.harry.w6@s.mail.nagoya-u.a
 convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I4-P248.pdf) (Economics Bulletin, 2020)
 3. [Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors](https://link.springer.com/article/10.1007/s41685-020-00178-0) (Asia-Pacific Journal of Regional Science, 2020)
 4. [Regional income disparities and convergence clubs in Indonesia: new district-level evidence](https://www.tandfonline.com/doi/abs/10.1080/13547860.2020.1868107) with Anang B. Gunawan and Carlos Mendez (Journal of the Asia-Pacific Economy, 2021)
-5. [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) (Indonesian Regional Science Association, IRSA Book Series No.19, 2021)
-6. [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) (Journal of Economic Structures, 2022)
-7. [Testing for convergence clubs in real wage across Indonesian provinces from 2008 to 2020](https://www.ksh.hu/docs/hun/xftp/terstat/2022/rs120305.pdf) (Regional Statistics, 2022)
+5. [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) with Ragdad C. Miranti and Carlos Mendez (Indonesian Regional Science Association, IRSA Book Series No.19, 2021)
+6. [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) with Masakazu Someya (Journal of Economic Structures, 2022)
+7. [Testing for convergence clubs in real wage across Indonesian provinces from 2008 to 2020](https://www.ksh.hu/docs/hun/xftp/terstat/2022/rs120305.pdf) with M. Rifki Maulana (Regional Statistics, 2022)
 8. [Spatiotemporal analysis of regional inflation in an emerging country: the case of Indonesia](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12539) (Regional Science Policy & Practice, 2022)
-9. [Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis](https://www.tandfonline.com/eprint/GYEJUKDXVCTYNW5TZESE/full?target=10.1080/09638199.2022.2149840) (The Journal of International Trade & Economic Development, 2022)
+9. [Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis](https://www.tandfonline.com/eprint/GYEJUKDXVCTYNW5TZESE/full?target=10.1080/09638199.2022.2149840) with Bangkit A. Wiryawan and Al Muizzuddin Fazaalloh (The Journal of International Trade & Economic Development, 2022)
 
 ### Working papers
 1. Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (Conference paper of Sumatranomics, 2021) 
