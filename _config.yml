@@ -5,13 +5,13 @@ title: Harry Aginta
 #remote_theme: poole / hyde
 #remote_theme: sharu725/online-cv
 #remote_theme: jitinnair1/gradfolio
-remote_theme: hydecorp/hydejack
-#theme: minima
+#remote_theme: hydecorp/hydejack
+theme: minima
 
 
 #header_pages:
- # - about.md
- #- cv.md
- # - research.md
+ - about.md
+ - cv.md
+ - research.md
 
 
