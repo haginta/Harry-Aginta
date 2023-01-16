@@ -10,8 +10,8 @@ remote_theme: hydecorp/hydejack
 
 
 #header_pages:
- - about.md
- - cv.md
- - research.md
+ #- about.md
+ #- cv.md
+ #- research.md
 
 
