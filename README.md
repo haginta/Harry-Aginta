@@ -1,6 +1,22 @@
 ![alt text](https://github.com/haginta/Harry-Aginta/blob/main/Harry-Aginta_.png?raw=true)
-##### PhD student at Nagoya University and researcher at Bank Indonesia
-Email: [aginta.harry.w6@s.mail.nagoya-u.ac.jp](aginta.harry.w6@s.mail.nagoya-u.ac.jp); [harry_ag@bi.go.id](harry_ag@bi.go.id)
+
+<h1 align="center">Hi 👋, I'm Harry Aginta</h1>
+<h3 align="center">PhD student at Nagoya University and researcher at Bank Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haginta&label=Profile%20views&color=0e75b6&style=flat" alt="haginta" /> </p>
+
+- 📫 How to reach me: **harry_ag@bi.go.id; aginta.harry.w6@s.mail.nagoya-u.ac.jp**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harry aginta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry aginta" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haginta&show_icons=true&locale=en&layout=compact" alt="haginta" /></p>
 
 ### Research interests
 - Development economics
@@ -9,16 +25,16 @@ Email: [aginta.harry.w6@s.mail.nagoya-u.ac.jp](aginta.harry.w6@s.mail.nagoya-u.a
 - Applied econometrics
 
 ### Research publications
-1.  [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) with Wahyu S. Baskoro and Debby A. Soraya (Economics and Finance in Indonesia, 2018)
+1.  [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) with Wahyu S. Baskoro and Debby A. Soraya (Economics and Finance in Indonesia (2018), 64(2), 111-130)
 2. [Does the law of one price hold in 82 Indonesian cities? Evidence from club
-convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I4-P248.pdf) (Economics Bulletin, 2020)
-3. [Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors](https://link.springer.com/article/10.1007/s41685-020-00178-0) (Asia-Pacific Journal of Regional Science, 2020)
-4. [Regional income disparities and convergence clubs in Indonesia: new district-level evidence](https://www.tandfonline.com/doi/abs/10.1080/13547860.2020.1868107) with Anang B. Gunawan and Carlos Mendez (Journal of the Asia-Pacific Economy, 2021)
-5. [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) with Ragdad C. Miranti and Carlos Mendez (Indonesian Regional Science Association, IRSA Book Series No.19, 2021)
-6. [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) with Masakazu Someya (Journal of Economic Structures, 2022)
-7. [Testing for convergence clubs in real wage across Indonesian provinces from 2008 to 2020](https://www.ksh.hu/docs/hun/xftp/terstat/2022/rs120305.pdf) with M. Rifki Maulana (Regional Statistics, 2022)
-8. [Spatiotemporal analysis of regional inflation in an emerging country: the case of Indonesia](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12539) (Regional Science Policy & Practice, 2022)
-9. [Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis](https://www.tandfonline.com/eprint/GYEJUKDXVCTYNW5TZESE/full?target=10.1080/09638199.2022.2149840) with Bangkit A. Wiryawan and Al Muizzuddin Fazaalloh (The Journal of International Trade & Economic Development, 2022)
+convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I4-P248.pdf) (Economics Bulletin (2020), 40(4), 2844-2858)
+3. [Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors](https://link.springer.com/article/10.1007/s41685-020-00178-0) (Asia-Pacific Journal of Regional Science (2020), 5, 427–451)
+4. [Regional income disparities and convergence clubs in Indonesia: new district-level evidence](https://www.tandfonline.com/doi/abs/10.1080/13547860.2020.1868107) with Anang B. Gunawan and Carlos Mendez (Journal of the Asia-Pacific Economy (2021), Forthcoming)
+5. [Regional Economic Growth Convergence and Spatial Growth Spillovers at Times of COVID-19 Pandemic in Indonesia](https://irsa.or.id/2021/08/05/regional-perspectives-of-covid-19-in-indonesia/) with Ragdad C. Miranti and Carlos Mendez (Indonesian Regional Science Association (2021), IRSA Book Series No.19, 266-290)
+6. [Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-021-00260-6) with Masakazu Someya (Journal of Economic Structures (2022), 11(1), 1-25)
+7. [Testing for convergence clubs in real wage across Indonesian provinces from 2008 to 2020](https://www.ksh.hu/docs/hun/xftp/terstat/2022/rs120305.pdf) with M. Rifki Maulana (Regional Statistics (2022), 12(3), 104-130)
+8. [Spatiotemporal analysis of regional inflation in an emerging country: the case of Indonesia](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12539) (Regional Science Policy & Practice (2022), 14(3), 667-668)
+9. [Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis](https://www.tandfonline.com/eprint/GYEJUKDXVCTYNW5TZESE/full?target=10.1080/09638199.2022.2149840) with Bangkit A. Wiryawan and Al Muizzuddin Fazaalloh (The Journal of International Trade & Economic Development (2022), Forthcoming)
 
 ### Working papers
 1. Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (Conference paper of Sumatranomics, 2021) with Ragdad C. Miranti and SS Yan.
