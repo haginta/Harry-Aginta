@@ -1,4 +1,4 @@
-
+![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
 <img align="left" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png">
 <h1 align="center">Hi 👋, I'm Harry Aginta</h1>
 <h3 align="center">PhD student at Nagoya University and researcher at Bank Indonesia</h3>
