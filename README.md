@@ -10,15 +10,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harry-aginta-6a968735/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry aginta" height="20" width="20" /></a>
+<a href="https://www.researchgate.net/profile/Harry-Aginta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="20" width="20" /></a>
+   
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> </a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata.do" width="35" height="20"/> </a>
 <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" alt="Overleaf" width="35" height="20"/> </a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haginta&show_icons=true&locale=en&layout=compact" alt="haginta" /></p>
 
 ### Research interests
 - Development economics
@@ -90,6 +89,4 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 ### Virtual internship
 - [ANZ@Data](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship)
 
-
-#### [Researchgate](https://www.researchgate.net/profile/Harry-Aginta)
 #### [Deepnote](https://deepnote.com/@harry-aginta)
