@@ -28,8 +28,8 @@
    
 <h4 align="left">Research interests</h4>
 <p align="left">
-- Development economics
-- Regional economics
-- Monetary economics
-- Applied econometrics
+📝Development economics
+📝Regional economics
+📝Monetary economics
+📝Applied econometrics
 
