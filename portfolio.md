@@ -1,3 +1,4 @@
+<h4 align="left">Articles:</h4>
 
 #### Publications
 1.  [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) with Wahyu S. Baskoro and Debby A. Soraya (Economics and Finance in Indonesia (2018), 64(2), 111-130)
