@@ -1,7 +1,7 @@
 ### Publications
 
 #### Journal articles and book chapter
-1.  [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](http://efi.ui.ac.id/index.php/efi/article/view/584/0) with Wahyu S. Baskoro and Debby A. Soraya (Economics and Finance in Indonesia (2018), 64(2), 111-130)
+1.  [Financial Development and Income Inequality in Indonesia: A Sub-national Level Analysis](https://scholarhub.ui.ac.id/cgi/viewcontent.cgi?article=1065&context=efi) with Wahyu S. Baskoro and Debby A. Soraya (Economics and Finance in Indonesia (2018), 64(2), 111-130)
 2. [Does the law of one price hold in 82 Indonesian cities? Evidence from club
 convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I4-P248.pdf) (Economics Bulletin (2020), 40(4), 2844-2858)
 3. [Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors](https://link.springer.com/article/10.1007/s41685-020-00178-0) (Asia-Pacific Journal of Regional Science (2020), 5, 427-451)
