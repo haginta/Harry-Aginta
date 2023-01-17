@@ -24,7 +24,7 @@
 <p align="left"> <a href="https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/ANZ-Logo-2009.svg" alt="ANZ@Data" width="50" height="20"/> </a>
 
 <h4 align="left">Data portfolio</h4>
-<p align="left"> <a href="https://deepnote.com/@haginta"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Deepnote.png" width="30" height="30"/> </a>
+<p align="left"> <a href="https://deepnote.com/@haginta"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Deepnote.png" width="40" height="40"/> </a>
    
 <h4 align="left">Research interests</h4>
 <p align="left">
