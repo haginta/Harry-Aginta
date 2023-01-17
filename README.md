@@ -5,7 +5,6 @@
 
 <span style="color:darkblue"> **Development economics**</span> | <span style="color:darkgreen"> **Regional economics**</span> | <span style="color:darkblue"> **Monetary policies**</span> | <span style="color:darkgreen"> **Applied econometrics**</span>
 
-
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
 
 <h4 align="center">Connect with me:</h4>
@@ -13,7 +12,8 @@
 <a href="https://www.linkedin.com/in/harry-aginta-6a968735/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry aginta" height="20" width="20" /></a>
 <a href="https://www.researchgate.net/profile/Harry-Aginta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="20" width="20" /></a> </p>
 <p align="center">
-<a href="harry_ag@bi.go.id" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" height="25" width="25" /></a> harry_ag@bi.go.id
+<a href="harry_ag@bi.go.id" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" height="25" width="25" /></a> harry_ag@bi.go.id </p>
+<p align="center">
 <a href="aginta.harry.w6@s.mail.nagoya-u.ac.jp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" height="25" width="25" /></a> aginta.harry.w6@s.mail.nagoya-u.ac.jp
    
 </p>
