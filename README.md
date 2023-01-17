@@ -7,6 +7,10 @@
 
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
 
+
+<h4 align="center">Research network</h4>
+<p align="center"> <a href="https://quarcs-lab.org/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/.png" width="40" height="40"/> </a>
+
 <h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/harry-aginta-6a968735/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry aginta" height="20" width="20" /></a>
