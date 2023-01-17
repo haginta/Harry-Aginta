@@ -1,10 +1,10 @@
-<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png">
+<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png"> </p>
 <h3 align="center">Hi 👋, I'm Harry!</h3>
 <h6 align="center">...a PhD student at Nagoya University and researcher at Bank Indonesia...</h6>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haginta&label=Profile%20views&color=0e75b6&style=flat" alt="haginta" /> </p>
 <h3 align="left">Research interests</h3>
 
-<span style="color:red"> **Development economics**</span> | <span style="color:red"> **Regional economics**</span> | <span style="color:red"> **Monetary policies**</span> | <span style="color:red"> **Applied econometrics**</span>
+<span style="color:blue"> **Development economics**</span> | <span style="color:red"> **Regional economics**</span> | <span style="color:blue"> **Monetary policies**</span> | <span style="color:red"> **Applied econometrics**</span>
 
 
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
