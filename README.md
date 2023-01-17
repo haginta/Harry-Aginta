@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haginta&label=Profile%20views&color=0e75b6&style=flat" alt="haginta" /> </p>
 
-- 📫 How to reach me: **harry_ag@bi.go.id; aginta.harry.w6@s.mail.nagoya-u.ac.jp**
+- 📫 How to reach me: harry_ag@bi.go.id; aginta.harry.w6@s.mail.nagoya-u.ac.jp
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
