@@ -59,4 +59,3 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - [Creating Animated Bar Chart Race in R](https://rpubs.com/haginta/709479)
 - [Regional inflation in Indonesia: Exploratory Spatial data Analysis (ESDA) - Deepnote](https://deepnote.com/@harry-aginta/Reg-inflation-Indonesia-Exploratory-Spatial-data-Analysis-ESDA-P8VbcfljQ5WyzeBH7V7C3Q)
 - [Predicting regional income with satellite nightlight data: The case of districts in Java, Indonesia - Deepnote](https://deepnote.com/@harry-aginta/Predicting-regional-income-with-satellite-nightlight-_XJ6PKCoSRiFbRQW8nujTA)
-- 
