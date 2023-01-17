@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png">
 <h3 align="center">Hi 👋, I'm Harry!</h3>
 
-<span style="color:blue"> *I am a PhD student at Nagoya University and researcher at Bank Indonesia.*</span>
+<span style="color:darkblue"> **I am a PhD student at Nagoya University and researcher at Bank Indonesia.**</span>
 
 <span style="color:darkblue"> **Development economics**</span> | <span style="color:darkgreen"> **Regional economics**</span> | <span style="color:darkblue"> **Monetary policies**</span> | <span style="color:darkgreen"> **Applied econometrics**</span>
 
