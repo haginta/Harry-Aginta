@@ -1,10 +1,9 @@
-<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png"> </p>
+<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png">
 <h3 align="center">Hi 👋, I'm Harry!</h3>
 
-<h6 align="left">I am a PhD student at Nagoya University and researcher at Bank Indonesia.</h6>
-<h3 align="left">Research interests</h3>
+<span style="color:blue"> *I am a PhD student at Nagoya University and researcher at Bank Indonesia.*</span>
 
-<span style="color:blue"> **Development economics**</span> | <span style="color:green"> **Regional economics**</span> | <span style="color:blue"> **Monetary policies**</span> | <span style="color:green"> **Applied econometrics**</span>
+<span style="color:darkblue"> **Development economics**</span> | <span style="color:darkgreen"> **Regional economics**</span> | <span style="color:darkblue"> **Monetary policies**</span> | <span style="color:darkgreen"> **Applied econometrics**</span>
 
 
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
