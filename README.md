@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
 <img align="left" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png">
-<h3 align="center">Hi 👋, I'm Harry Aginta</h3>
+<h3 align="center">Hi 👋, I'm Harry</h3>
 <h6 align="center">PhD student at Nagoya University and researcher at Bank Indonesia</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haginta&label=Profile%20views&color=0e75b6&style=flat" alt="haginta" /> </p>
