@@ -39,15 +39,6 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - Regional economic structure and heterogeneous effects of monetary policy: Evidence from Indonesian provinces (The 5th International Conference on Economic Structures, Kobe, March 20-21, 2021)
 - Spatial dynamics of consumer price in Indonesia: convergence clubs and conditioning factors (The 19th International Conference of the Japan Economic Policy Association, November, 19-20, 2020)
 
-#### Data projects
-- [Club convergence of regional wage across Indonesian provinces using R - Google colab](https://colab.research.google.com/drive/1Y0IMGj0yLDQcIwfp_1XJowGND7yWcuwZ?usp=sharing)
-- [Club convergence of regional wage across Indonesian provinces using R - Deepnote](https://deepnote.com/@harry-aginta/R-Club-convergence-of-regional-wage-across-Indonesian-provinces-in-R-ByLPKCPWQ-OuPjMPryU7aQ)
-- [Covid-19 pandemic and its economic impacts: A static exploration on Indonesian provincial data](https://rpubs.com/haginta/covid19-econ-impacts-indonesia)
-- [Covid-19 pandemic and its economic impacts: An interactive exploration on Indonesian provincial data](https://haginta.shinyapps.io/covid19-econ-impacts-indonesia/)
-- [Creating Animated Bar Chart Race in R](https://rpubs.com/haginta/709479)
-- [Regional inflation in Indonesia: Exploratory Spatial data Analysis (ESDA) - Deepnote](https://deepnote.com/@harry-aginta/Reg-inflation-Indonesia-Exploratory-Spatial-data-Analysis-ESDA-P8VbcfljQ5WyzeBH7V7C3Q)
-- [Predicting regional income with satellite nightlight data: The case of districts in Java, Indonesia - Deepnote](https://deepnote.com/@harry-aginta/Predicting-regional-income-with-satellite-nightlight-_XJ6PKCoSRiFbRQW8nujTA)
-
 #### Op-ed articles
 - [APBN, Produk Lokal, dan Kesenjangan Wilayah](https://www.kompas.id/baca/artikel-opini/2022/04/03/apbn-produk-lokal-dan-kesenjangan-wilayah) (KOMPAS.ID, 2022)
 - ["Digital Agenda Bank Indonesia 4.0"](https://rpubs.com/haginta/digitalagendabi40)
@@ -60,3 +51,12 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 - ["How IT can help curb inflation"](https://www.thejakartapost.com/news/2015/11/19/how-it-can-help-curb-inflation.html) (The Jakarta Post, 2015)
 - ["Are exports good and imports bad for the economy?"](https://www.thejakartapost.com/news/2013/03/15/are-exports-good-and-imports-bad-economy.html) (The Jakarta Post, 2013)
 
+#### Data projects
+- [Club convergence of regional wage across Indonesian provinces using R - Google colab](https://colab.research.google.com/drive/1Y0IMGj0yLDQcIwfp_1XJowGND7yWcuwZ?usp=sharing)
+- [Club convergence of regional wage across Indonesian provinces using R - Deepnote](https://deepnote.com/@harry-aginta/R-Club-convergence-of-regional-wage-across-Indonesian-provinces-in-R-ByLPKCPWQ-OuPjMPryU7aQ)
+- [Covid-19 pandemic and its economic impacts: A static exploration on Indonesian provincial data](https://rpubs.com/haginta/covid19-econ-impacts-indonesia)
+- [Covid-19 pandemic and its economic impacts: An interactive exploration on Indonesian provincial data](https://haginta.shinyapps.io/covid19-econ-impacts-indonesia/)
+- [Creating Animated Bar Chart Race in R](https://rpubs.com/haginta/709479)
+- [Regional inflation in Indonesia: Exploratory Spatial data Analysis (ESDA) - Deepnote](https://deepnote.com/@harry-aginta/Reg-inflation-Indonesia-Exploratory-Spatial-data-Analysis-ESDA-P8VbcfljQ5WyzeBH7V7C3Q)
+- [Predicting regional income with satellite nightlight data: The case of districts in Java, Indonesia - Deepnote](https://deepnote.com/@harry-aginta/Predicting-regional-income-with-satellite-nightlight-_XJ6PKCoSRiFbRQW8nujTA)
+- 
