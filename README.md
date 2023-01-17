@@ -1,10 +1,8 @@
 <img align="left" alt="Coding" width="100" src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Harry-Aginta_.png">
 <h3 align="center">Hi 👋, I'm Harry</h3>
-<h6 align="center">PhD student at Nagoya University and researcher at Bank Indonesia</h6>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haginta&label=Profile%20views&color=0e75b6&style=flat" alt="haginta" /> </p>
-
-- 📫 How to reach me: harry_ag@bi.go.id; aginta.harry.w6@s.mail.nagoya-u.ac.jp
+<h6 align="left">I am a PhD student at Nagoya University and researcher at Bank Indonesia</h6>
+<h6 align="left">How to reach me: harry_ag@bi.go.id; aginta.harry.w6@s.mail.nagoya-u.ac.jp</h6>
 
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
 
