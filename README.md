@@ -7,7 +7,7 @@
 
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
 
-<h4 align="center">Connect with me:</h4>
+<h4 align="center">Connect with me</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/harry-aginta-6a968735/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry aginta" height="20" width="20" /></a>
 <a href="https://www.researchgate.net/profile/Harry-Aginta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="20" width="20" /></a> </p>
@@ -20,7 +20,7 @@
 <p align="center"> <a href="https://quarcs-lab.org/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/QuaRCS-lab-logo.png" width="50" height="50"/> </a>
    
 </p>
-<h4 align="center">Languages and tools:</h4>
+<h4 align="center">Languages and tools</h4>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> </a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata.do" width="35" height="20"/> </a>
