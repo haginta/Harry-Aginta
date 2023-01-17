@@ -9,7 +9,7 @@
 
 
 <h4 align="center">Research network</h4>
-<p align="center"> <a href="https://quarcs-lab.org/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/.png" width="40" height="40"/> </a>
+<p align="center"> <a href="https://quarcs-lab.org/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/QuaRCS-lab%20logo.png" width="50" height="50"/> </a>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
