@@ -7,10 +7,6 @@
 
 ![MasterHead](https://raw.githubusercontent.com/haginta/animated-bar-chart-in-R/main/anim_gdp.gif)
 
-
-<h4 align="center">Research network</h4>
-<p align="center"> <a href="https://quarcs-lab.org/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/QuaRCS-lab-logo.png" width="50" height="50"/> </a>
-
 <h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/harry-aginta-6a968735/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harry aginta" height="20" width="20" /></a>
@@ -19,6 +15,9 @@
 <a href="harry_ag@bi.go.id" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" height="25" width="25" /></a> harry_ag@bi.go.id </p>
 <p align="center">
 <a href="aginta.harry.w6@s.mail.nagoya-u.ac.jp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" height="25" width="25" /></a> aginta.harry.w6@s.mail.nagoya-u.ac.jp
+   
+<h4 align="center">Research network</h4>
+<p align="center"> <a href="https://quarcs-lab.org/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/QuaRCS-lab-logo.png" width="50" height="50"/> </a>
    
 </p>
 <h4 align="center">Languages and tools:</h4>
