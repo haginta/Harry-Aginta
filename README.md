@@ -19,8 +19,8 @@
 <img src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" alt="Overleaf" width="35" height="20"/>
    
 <h4 align="center">Online courses and internship</h4>
-<p align="center"> <a href="https://www.datacamp.com/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/DataCamp%20_%20Logo.png" alt="DataCamp" width="60" height="15"/> </a>
-<a align="center"> <a href="https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/ANZ-Virtual-Internship"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/ANZ-Logo-2009.svg" alt="ANZ@Data" width="50" height="20"/> </a>
+<p align="center"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/DataCamp%20_%20Logo.png" alt="DataCamp" width="60" height="15"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/ANZ-Logo-2009.svg" alt="ANZ@Data" width="50" height="20"/>
 
 <h4 align="center">Data portfolio</h4>
 <p align="center"> <a href="https://deepnote.com/@haginta"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/Deepnote.png" width="40" height="40"/> </a>
