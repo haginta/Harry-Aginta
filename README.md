@@ -1,4 +1,4 @@
-![]()
+![](https://raw.githubusercontent.com/haginta/Harry-Aginta/main/HARRY-AGINTA1.png)
 
 <h3 align="center">Hi 👋, I'm Harry!</h3>
 <h6 align="center">PhD student at Nagoya University and researcher at Bank Indonesia</h6>
