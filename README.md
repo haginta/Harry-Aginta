@@ -12,7 +12,7 @@
    
 </p>
 <h4 align="center">Languages and tools</h4>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> </a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata.do" width="35" height="20"/> </a>
 <a href="https://geodacenter.github.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/geoda_icon.png" alt="GeoDa" width="35" height="20"/> </a>
