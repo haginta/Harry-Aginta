@@ -17,6 +17,14 @@
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata.do" width="35" height="20"/> </a>
 <a href="https://geodacenter.github.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/geoda_icon.png" alt="GeoDa" width="35" height="20"/> </a>
 <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" alt="Overleaf" width="35" height="20"/> </a>
+
+</p>
+<h4 align="center">Languages and tools</h4>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="Stata.do" width="35" height="20"/>
+<img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/geoda_icon.png" alt="GeoDa" width="35" height="20"/>
+<img src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" alt="Overleaf" width="35" height="20"/>
    
 <h4 align="center">Online courses and internship</h4>
 <p align="center"> <a href="https://www.datacamp.com/"> <img src="https://raw.githubusercontent.com/haginta/Harry-Aginta/main/DataCamp%20_%20Logo.png" alt="DataCamp" width="60" height="15"/> </a>
