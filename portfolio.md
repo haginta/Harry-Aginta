@@ -30,7 +30,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 
 #### On-progress research projects
 1. The determinants and spatial spillovers of income across districts in Java, Indonesia: What the new nighttime light data say?
-2. Regional growth-unemployment nexus in Indonesia: Endogeneity and non-uniformity
+2. Regional Okun's law, endogeneity, and heterogeneous effects: District-level evidence from Indonesia
 
 #### Conference presentations
 - Regional heterogeneity and the Phillips curve in an emerging country: The case of Indonesia (The 4th Warsaw Money-Macro-Finance Conference, September 20-21, 2022)
