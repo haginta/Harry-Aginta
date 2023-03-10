@@ -1,4 +1,4 @@
-### Publications
+### Peer-reviewed publications
 
 #### Journal articles and book chapter
 1.  [Financial development and income inequality in Indonesia: A sub-national level analysis](https://scholarhub.ui.ac.id/cgi/viewcontent.cgi?article=1065&context=efi) with Wahyu S. Baskoro and Debby A. Soraya (Economics and Finance in Indonesia (2018), 64(2), 111-130)
@@ -26,9 +26,11 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 4. Explaining regional income convergence in China: An exploratory spatio-temporal perspective (2022, under review) with Chen Yilin and Kpoviessi Dohèto Othniel.
    > **Abstract:** Uneven regional development has become an issue in China since the Open and Reform Policy in the 1980s. The imbalance can be observed as the ”coastal west divide” in previous convergence studies. This paper aims to contribute to the mainstream of the convergence study by including the role of space, analyzing three economic indicators, regional income, investment, and human capital, from 1999 to 2017. In contrast to inconsistent results in investment and human capital as conditioning factors in the previous income convergence study, this research found consistent results using either classical convergence or the new exploratory technique in spatial analysis. Our findings confirm the investment-driven economy in China and suggest that investment mainly facilitates the convergence trend of regional income and gradually nar- rows the coastal-wide divide. At the same time, there is no significant con- vergence in human capital, whether including the role of space or not. These findings suggest that the promotion of low-income regions with better spatial connectivity could achieve balanced regional development.
 
+5. Regional Okun's law, endogeneity, and heterogeneous effects: District-level evidence from Indonesia (2023, under review) with Carlos Mendez and Masakazu Someya.
+ > **Abstract:** This paper investigates regional Okun's law across 514 districts of Indonesia over the 2011-2020 period. To address the endogeneity issue, we use regional temperature as instrument for economic growth.  Our results show that regional growth becomes statistically significant only after endogeneity is taken into account. Furthermore, we show that Okun's law is geographically heterogeneous. Only in the more industrialized western regions of Indonesia does unemployment have a significant relationship with GDP growth.
+
 #### On-progress research projects
-1. The determinants and spatial spillovers of income across districts in Java, Indonesia: What the new nighttime light data say?
-2. Regional Okun's law, endogeneity, and heterogeneous effects: District-level evidence from Indonesia
+1. Regional luminosity through the lens of the spatial Solow model: Evidence from Java, Indonesia
 
 #### Conference presentations
 - Regional heterogeneity and the Phillips curve in an emerging country: The case of Indonesia (The 4th Warsaw Money-Macro-Finance Conference, September 20-21, 2022)
