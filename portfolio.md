@@ -12,6 +12,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 8. [Does GVC participation help industrial upgrading in developing countries? New evidence from panel data analysis](https://www.tandfonline.com/eprint/GYEJUKDXVCTYNW5TZESE/full?target=10.1080/09638199.2022.2149840) with Bangkit A. Wiryawan and Al Muizzuddin Fazaalloh (The Journal of International Trade & Economic Development (2022), Forthcoming)
 9. [Regional income disparities and convergence clubs in Indonesia: new district-level evidence](https://www.tandfonline.com/doi/abs/10.1080/13547860.2020.1868107) with Anang B. Gunawan and Carlos Mendez (Journal of the Asia-Pacific Economy (2023), 28(1), 101-132)
 10. [Revisiting the Phillips curve for Indonesia: What can we learn from regional data?](https://www.sciencedirect.com/science/article/pii/S104900782300012X?dgcid=author) (Journal of Asian Economics (2023), 85)
+11. [Inflation and spatial spillovers in a large archipelago: Evidence from Indonesia](https://onlinelibrary.wiley.com/share/author/PJZHFUTKNPKY2DTTZWCM?target=10.1111/1759-3441.12381) (Economic Papers, 2023)
 
 #### Working papers
 1. Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (Conference paper of Sumatranomics, 2021) with Ragdad C. Miranti and SS Yan.
