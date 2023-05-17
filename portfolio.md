@@ -25,9 +25,14 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 3. Regional Okun's law, endogeneity, and heterogeneous effects: District-level evidence from Indonesia (2023, under review) with Carlos Mendez and Masakazu Someya.
  > **Abstract:** This paper investigates regional Okun's law across 514 districts of Indonesia over the 2011-2020 period. To address the endogeneity issue, we use regional temperature as instrument for economic growth.  Our results show that regional growth becomes statistically significant only after endogeneity is taken into account. Furthermore, we show that Okun's law is geographically heterogeneous. Only in the more industrialized western regions of Indonesia does unemployment have a significant relationship with GDP growth.
 
+4. Key sectors and spatial clusters in Indonesia: Evidence from the inter-regional input-output tables (2023, under review) with Christian Otchia.
+ > **Abstract:** Spatial analysis that considers geographical factors can potentially bring value to the regional study of key sectors — the sectors that have higher impacts relative to others. Utilizing the most disaggregated data from the Inter-Regional Input-Output Tables (IRIO) 2016 covering 34 provinces and 52 sectors, this study aims to identify key sectors and spatial clusters in Indonesia, the world’s largest archipelago with diverse socio-economic conditions among regions. In the first stage, the paper identifies key sectors based on the forward and backward linkages. The 
+second stage of the paper focuses on identifying spatial clusters of the key sectors using Exploratory Spatial Data Analysis (ESDA). Electricity, several manufacturing industries, transportation, warehousing, and business services have been highlighted as key sectors. The respective province for the key sectors is also documented. Furthermore, the results from ESDA show two sectors that form significant spatial clusters: 1) the rubber industry and 2) the basic metal industry. Moran’s scatter plot reveals the respective cluster provinces for each sector. Overall, the study emphasizes the importance of complementing standard key sector analysis with exploratory spatial analysis to identify the spatial clustering of key sectors. From a policy standpoint, the findings of this paper can assist the Indonesian government in better planning regional development programs, such as investment promotion, to boost economic performance throughout the nation.
+
 #### On-progress research projects
 1. Regional luminosity through the lens of the spatial Solow model: Evidence from Java, Indonesia
-2. Key sector and spatial clusters in Indonesia: Evidence from inter-regional input-output tables
+2. Do SEZs improve GVC participation? Cross-country evidence from causal analysis 
+3. Mapping Indonesia’s regional growth during and post-COVID-19 pandemic: A spatiotemporal approach
 
 #### Conference presentations
 - Regional heterogeneity and the Phillips curve in an emerging country: The case of Indonesia (The 4th Warsaw Money-Macro-Finance Conference, September 20-21, 2022)
