@@ -35,7 +35,6 @@ second stage of the paper focuses on identifying spatial clusters of the key sec
 
 #### On-progress research projects
 1. Regional luminosity through the lens of the spatial Solow model: Evidence from Java, Indonesia
-2. Do SEZs improve GVC participation? Cross-country evidence from causal analysis 
 
 #### Conference presentations
 - Mapping Indonesia’s regional growth during and post-COVID-19 pandemic: A spatiotemporal approach (The 18th Indonesian Regional Science Association (IRSA) International Conference, July 17-18, 2023)
