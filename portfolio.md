@@ -37,6 +37,7 @@ second stage of the paper focuses on identifying spatial clusters of the key sec
 1. Regional luminosity through the lens of the spatial Solow model: Evidence from Java, Indonesia
 
 #### Conference presentations
+- Spatial Okun’s law for a set of islands? The case of Indonesia (The 62nd European Regional Science Association (ERSA) Congress, Aug 28 - Sep 1, 2023)
 - Mapping Indonesia’s regional growth during and post-COVID-19 pandemic: A spatiotemporal approach (The 18th Indonesian Regional Science Association (IRSA) International Conference, July 17-18, 2023)
 - Regional heterogeneity and the Phillips curve in an emerging country: The case of Indonesia (The 4th Warsaw Money-Macro-Finance Conference, September 20-21, 2022)
 - Revisiting the Phillips curve for Indonesia: What can we learn from regional data? (PRSCO 2022 27th Pacific Conference of the RSAI 2022 in Kyoto, August 1-4, 2022)
