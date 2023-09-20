@@ -14,7 +14,7 @@ convergence approach](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-
 10. [Revisiting the Phillips curve for Indonesia: What can we learn from regional data?](https://www.sciencedirect.com/science/article/pii/S104900782300012X?dgcid=author) (Journal of Asian Economics (2023), 85)
 11. [Inflation and spatial spillovers in a large archipelago: Evidence from Indonesia](https://onlinelibrary.wiley.com/share/author/PJZHFUTKNPKY2DTTZWCM?target=10.1111/1759-3441.12381) (Economic Papers, 2023)
 12. [Investigating regional income convergence in China: an exploratory spatio-temporal perspective](https://link.springer.com/article/10.1007/s12076-023-00343-x) with **Yilin Chen** and **Dohèto Othniel Kpoviessi** (Letters in Spatial and Resource Sciences (2023), 16, 17)
-13. Regional Okun's law, endogeneity, and heterogeneous effects: District-level evidence from Indonesia (2023, Forthcoming) with Carlos Mendez and Masakazu Someya.
+13. Regional Okun's law, endogeneity, and heterogeneous effects: District-level evidence from Indonesia (Applied Economics Letters (2023), Forthcoming) with Carlos Mendez and Masakazu Someya.
 
 #### Working papers
 1. Regional growth, convergence, and heterogeneity in Sumatra: Evidence from new satellite data (Conference paper of Sumatranomics, 2021) with Ragdad C. Miranti and SS Yan.
